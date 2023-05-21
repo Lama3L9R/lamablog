@@ -77,8 +77,10 @@ $ git clone https://github.com/Lama3L9R/stm32helper.git
 
 **2023/5/21 更新: 现在已无需那么麻烦，只需要执行 `$ yarn install` 后执行下方的指令即可一键设置 `c_cpp_properties.json`、`Cortex-Debug` 配置文件和构建配置文件（也就是 `Ctrl+Shift+B`）**
 
+**2023/5/21 更新第二次: 现在已无需那么麻烦，只需要执行 `$ yarn install && npm install -g .` 后在项目根目录下执行下方的指令即可一键设置 `c_cpp_properties.json`、`Cortex-Debug` 配置文件和构建配置文件（也就是 `Ctrl+Shift+B`），主要是添加了可以全局安装的功能，如果你不喜欢全局安装，可以手动调用 index.js 就是麻烦些**
+
 ```
-$ node index.js vscode /path/to/your/project
+$ stm32helper vscode .
 ```
 
 一份正常的 `c_cpp_properties.json` 大概长这个样子
