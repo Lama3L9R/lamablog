@@ -2,7 +2,7 @@
 title: "STM32 | VSCode + WSL + JLink + Make 工具链环境配置"
 date: 2023-05-17T23:37:53+08:00
 draft: false
-tags: ["changelog"]
+tags: ["tutorial"]
 ---
 
 ## 为什么不用某希腊字母或者某立方体呢？ 或者一些在 `Windows` 上的 `gcc` 链呢？
