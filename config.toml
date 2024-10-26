@@ -4,7 +4,7 @@ title = 'lamadaemon.blog'
 theme = 'risotto'
 
 author = "lama"
-copyright = "© 2023-Present [`[lama | aka lamadaemon]`](https://lama.icu)."
+copyright = "© 2023-Present [`[lama | aka lamadaemon]`](https://blog.lama.icu)."
 paginate = 3
 DefaultContentLanguage = "zh"
 enableInlineShortcodes = true
@@ -46,7 +46,7 @@ url = "mailto:i@lama.icu"
 [[params.socialLinks]]
 icon = "fa-brands fa-telegram"
 title = "ORCID"
-url = "https://t.me/lamadaemon"
+url = "https://t.me/alpbroadcastd"
 
 [menu]
 
