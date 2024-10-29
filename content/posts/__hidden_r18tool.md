@@ -154,3 +154,4 @@ function __r18_lcto_4_onclick_decode() {
     }
     
 }
+</script>
