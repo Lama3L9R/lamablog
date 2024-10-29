@@ -1,0 +1,7 @@
+{{ $script := resources.Get (printf "js/%s" (.Get 0)) }}
+{{ if $script }}
+    {{ $script = $script }}
+    <script src="{{ $script.Permalink }}"></script>
+{{ else }}
+    <p>Error: Could not find the specified TypeScript file.</p>
+{{ end }}
