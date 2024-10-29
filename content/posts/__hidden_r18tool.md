@@ -154,29 +154,3 @@ function __r18_lcto_4_onclick_decode() {
     }
     
 }
-
-</script>
-
-## Password randomizer
-
-Generate randomized password with prefix
-
-Password: 
-<input style="min-width: 20rem;" id="__r18_rndzippwd"></input>
-<button onclick="__r18_rndzippwd_onclick()">New</button>
-
-<script>
-
-function __r18_rndzippwd_onclick() {
-    const chars = "12345467890abcdef"
-    const data = document.getElementById("__r18_rndzippwd")
-    
-    let pwd = ""
-
-    
-
-
-    data.value += pwd
-}
-
-</script>
