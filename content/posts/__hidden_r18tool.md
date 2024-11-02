@@ -46,7 +46,8 @@ function __r18_lcto_1_onclick_decode() {
             return
         }
 
-        data.value = payload.pathname.replace(/[g-zG-Z/]/g, "")
+        const urlBody = isChromiumURLBugPresent() ? payload.pathname : payload.host
+        data.value = urlBody.replace(/[g-zG-Z/]/g, "")
                         .match(/.{2}/g)
                         .map(it => String.fromCharCode(parseInt(it, 16)))
                         .reduce((accu, val) => accu += val, "")
@@ -76,6 +77,11 @@ Decode:
 <button onclick="__r18_lcto_4_onclick_decode()">Decode</button>
 
 <script>
+
+function isChromiumURLBugPresent() {
+    const testURL = new URL("myscheme://body/?test=1")
+    return !Boolean(testURL.host)
+}
 
 function __r18_lcto_4_onclick_encode() {
     const insertions = 'GHIJKLMNOPQRSTUVWXYZ'
@@ -142,7 +148,8 @@ function __r18_lcto_4_onclick_decode() {
             return
         }
 
-        data.value = payload.pathname.replace(/[G-Z/]/g, "")
+        const urlBody = isChromiumURLBugPresent() ? payload.pathname : payload.host
+        data.value = urlBody.replace(/[G-Z/]/g, "")
                         .match(/.{2}/g)
                         .map(it => Array.from(it).map(num => isNumber(num) ? replacement[num] : num).join(""))
                         .map(it => String.fromCharCode(parseInt(it, 16)))
