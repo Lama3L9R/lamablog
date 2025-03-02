@@ -1,6 +1,5 @@
 ---
 title: "Common Tools"
-date: 2000-00-00T00:00:00+00:00
 draft: false
 tags: ["hidden"]
 ---
