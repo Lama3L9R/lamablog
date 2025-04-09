@@ -27,8 +27,8 @@ palette = "dracula"
 # Sidebar: about/bio
 [params.about]
 title = "lamadaemon.blog"
-description = "前后端 | 电子 | 嵌入式开发 | 喜欢老技术但是新技术 | `@lamadaemon`"
-logo = "images/plus-solid.svg"
+description = "前后端 | 电子 | 嵌入式开发 | 喜欢老技术但是新技术 | 逆向 "
+logo = "favicon.svg"
 
 # Sidebar: social links
 # Available icon sets:
@@ -47,7 +47,7 @@ url = "mailto:i@lama.icu"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-telegram"
-title = "ORCID"
+title = "Telegram"
 url = "https://t.me/alpbroadcastd"
 
 [menu]
