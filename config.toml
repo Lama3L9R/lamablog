@@ -28,7 +28,7 @@ palette = "dracula"
 [params.about]
 title = "lamadaemon.blog"
 description = "前后端 | 电子 | 嵌入式开发 | 喜欢老技术但是新技术 | 逆向 "
-logo = "favicon.svg"
+logo_image  = "favicon.svg"
 
 # Sidebar: social links
 # Available icon sets:
