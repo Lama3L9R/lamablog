@@ -18,3 +18,13 @@ In a democracy system, we all acknowledge that everyone’s voice matters, inclu
 However, there are people who believe that the connections between mental problem and social media are week, and they believe the total opposite side that social media helps to maintain a healthy mental status. This is reasonable, and I acknowledge this because a research on Netherlands indicated that over 90% of respondents have either a neutral or positive experience in terms of mental health (Lancaster, 2023). Moreover, social media provides a sense of belonging which “is a huge protective factor against suicide.” (Lancaster, 2023). 
 
 For teenagers, social media acts as no difference than cannabis, since both of them make people addicted to them, and both of them are bad for mental health. Leaving social media publicly, widely available is dangerous and harmful to teenagers, and thus, based on all these factors, I conclude that social media should be banned for people who are under age 19.
+
+## References
+
+https://www.psychologytoday.com/ca/blog/the-right-media-mindset/202302/the-unintended-consequences-of-banning-social-media
+https://www.michaelgeist.ca/2024/11/canadian-government-to-ban-tiktok-the-company-not-the-app/
+https://www.journalofdemocracy.org/articles/the-road-to-digital-unfreedom-three-painful-truths-about-social-media/
+https://hls.harvard.edu/today/is-it-time-to-swipe-left-on-social-media/
+https://www.pewresearch.org/global/2022/12/06/social-media-seen-as-mostly-good-for-democracy-across-many-nations-but-u-s-is-a-major-outlier/
+https://www.gao.gov/blog/online-extremism-growing-problem-whats-being-done-about-it
+
