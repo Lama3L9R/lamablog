@@ -5,8 +5,6 @@ draft: false
 tags: ["杂谈"]
 ---
 
-# Social media – the poison targeting our next generation
-
 Social media has become a part of 21 century teenager’s life. Many teenagers, as vulnerable group of people, has spent hours on it without realizing that the undergoing leakage of personal privacy, impacts on personal mental health, and being the target of political manipulation are happening to them. These problems are not just physically and mentally harmful to our next generation but also impacting our democracy system. Thus, I believe that social media should be banned completely for teenagers, specifically for people who are under age 19.
 
 Everyone is a victim of privacy leakage from all the social media they use, yet on the legal prospective, you agree the companies to do so. When the first time you opened an app, you are always being asked to agree some extremely long terms, and almost everyone will click on the “agree” button without even bother to open the terms. A software had made an experiment to see if there is anyone who actually reads the terms. After three months and thousands of downloads, only one person read it to the end. (Deibert, 2019) After they get your consent, unknowingly, the companies start “to acquire as much data as possible about many customer as possible, ” (Deibert, 2019) and then, your data are sold to other companies, so the social media apps seem to be use for free, but actually you already paid through another, secretive way. This is “called the ‘personal-data surveillance economy’ or ‘surveillance capitalism’” (Deibert, 2019) that the company profit from stolen privacy. 
